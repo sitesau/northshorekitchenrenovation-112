@@ -1,0 +1,22 @@
+{
+  "wheel_id": 967,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-112",
+  "project": "kitchen-renovations-north-shore-how-to-choose-4a2d76894be1dcc68",
+  "parent_t1_ref": "northshorekitchenrenovation-155",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore how to choose",
+  "intended_url": "https://sitesau.github.io/northshorekitchenrenovation-112/",
+  "tier": "T2",
+  "writeback_nonce": "ea53a3ab77ddd142",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-north-shore-seasonal-timing-9b8eeb1ebdf8c9b/",
+      "anchor": "a guide to kitchen renovations north shore seasonal timing",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
